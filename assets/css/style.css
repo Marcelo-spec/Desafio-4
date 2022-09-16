@@ -7,9 +7,15 @@
     background-color: #28A745;
 } */
 
-nav img, footer img {
+.card:hover {
+    box-shadow: 5px 5px 20px #000000;
+    transform: translateY(-3%);
+}
+
+nav img,
+footer img {
     width: 86pt;
-    height: 25pt;
+    height: 30pt;
 }
 
 /* .price {
